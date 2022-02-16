@@ -1,0 +1,9 @@
+# Node artifact files
+node_modules/
+dist/
+yarn.lock
+build/
+
+#Environment variables
+.env
+.env.dev
